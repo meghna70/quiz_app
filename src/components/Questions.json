@@ -1,0 +1,52 @@
+[
+    {
+        "Q": "How many rings are on the Olympic flag? ",
+        "options":
+        [
+            {"a":"4", "flag":false},
+            {"a":"5", "flag":true},
+            {"a":"7", "flag":false},
+            {"a":"None of the above", "flag":false}
+        ]
+    },
+    {
+        "Q": "Which of these animals does NOT appear in the Chinese zodiac?",
+        "options":
+        [
+            {"a":"Bear", "flag":true},
+            {"a":"Dog", "flag":false},
+            {"a":"Horse", "flag":false},
+            {"a":"Ox", "flag":false}
+        ]
+    },
+    {
+        "Q": "What are the main colors on the flag of Spain?",
+        "options":
+        [
+            {"a":"Black and Yellow", "flag":false},
+            {"a":"Blue and White", "flag":false},
+            {"a":"Green and White", "flag":false},
+            {"a":"Red and Yellow", "flag":true}
+        ]
+    },
+    {
+        "Q": "Which of these cities is NOT in India?",
+        "options":
+        [
+            {"a":"Karachi", "flag":true},
+            {"a":"Kolkata", "flag":false},
+            {"a":"Delhi", "flag":false},
+            {"a":"Ghaziabad", "flag":false}
+        ]
+    },
+    {
+        "Q": "How did Spider-Man get his powers?",
+        "options":
+        [
+            {"a":"Bitten by radioactive spider", "flag":true},
+            {"a":"Born with powers", "flag":false},
+            {"a":"After Time travelling", "flag":false},
+            {"a":"Ironman gave him the powers", "flag":false}
+        ]
+    }
+]
